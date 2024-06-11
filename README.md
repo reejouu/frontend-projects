@@ -1,1 +1,1 @@
-Amazon Clone project using basic HTML and CSS
+Amazon Clone using basic HTML and CSS
